@@ -1,0 +1,2 @@
+Simple command line utility that can be used to plot one or more CSV formatted
+files, each in its own figure.
